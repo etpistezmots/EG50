@@ -1,0 +1,493 @@
+{"metas": {
+                "min_year":1972,
+                "minstre":0.35,
+                "max_year":2020,
+                "maxstre":0.85,
+                "nb_ticks":5
+            },
+    "nodes": [
+                {
+            "terms": "donnée,permettre,utiliser,information,méthode",
+            "name":"donnée",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":3201,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "commun,rural,population,urbain,évolution",
+            "name":"commun",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":2164,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "industriel,région,activité,zone,développement",
+            "name":"industriel",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":2018,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,géographe,recherche,problème,travail",
+            "name":"géographie",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":2303,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "espace,géographique,social,organisation,spatial",
+            "name":"espace",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":3266,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "valeur,variable,facteur,groupe,prendre",
+            "name":"valeur",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":3560,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "grand,petit,partie,moyen,important",
+            "name":"grand",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":3018,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "aménagement,année,exploitation,politique,dernier",
+            "name":"aménagement",
+            "color":"blue",
+            "period":"19721978",
+            "sizess":2129,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,géographe,recherche,monde,science",
+            "name":"géographie",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":3740,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "modèle,exemple,forme,ensemble,fonction",
+            "name":"modèle",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":2720,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "carte,variable,type,utiliser,présenter",
+            "name":"carte",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":1987,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "grand,petit,ville,partie,moyen",
+            "name":"grand",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":2528,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "zone,population,centre,région,urbain",
+            "name":"zone",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":3181,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "économique,politique,société,espace,social",
+            "name":"économique",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":4131,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "mesure,donnée,premier,temps,résultat",
+            "name":"mesure",
+            "color":"blue",
+            "period":"19791989",
+            "sizess":1796,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "état,politique,pays,national,région",
+            "name":"état",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":3343,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,centre,quartier,urbain,moyen",
+            "name":"ville",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":2079,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "lieu,question,espace,sembler,géographique",
+            "name":"lieu",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":3015,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "donnée,permettre,type,modèle,montrer",
+            "name":"donnée",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":2620,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,système,structure,forme,organisation",
+            "name":"spatial",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":2686,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "entreprise,service,emploi,production,activité",
+            "name":"entreprise",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":2388,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,monde,voir,sentir,général",
+            "name":"géographie",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":1802,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "compte,prendre,distance,effet,cas",
+            "name":"compte",
+            "color":"blue",
+            "period":"19902002",
+            "sizess":2832,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "espace,social,nature,territoire,pratique",
+            "name":"espace",
+            "color":"blue",
+            "period":"20032013",
+            "sizess":3660,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,permettre,analyse,donnée,modèle",
+            "name":"spatial",
+            "color":"blue",
+            "period":"20032013",
+            "sizess":3319,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,urbain,centre,quartier,population",
+            "name":"ville",
+            "color":"blue",
+            "period":"20032013",
+            "sizess":3627,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "pays,région,national,développement,état",
+            "name":"pays",
+            "color":"blue",
+            "period":"20032013",
+            "sizess":4568,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,grand,urbain,petit,habitant",
+            "name":"ville",
+            "color":"blue",
+            "period":"20142020",
+            "sizess":4010,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,pratique,analyse,donner,question",
+            "name":"spatial",
+            "color":"blue",
+            "period":"20142020",
+            "sizess":3616,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms": "local,politique,acteur,national,territoire",
+            "name":"local",
+            "color":"blue",
+            "period":"20142020",
+            "sizess":3862,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms":"géographie,français,recherche,travail,partir",
+            "name":"géographie",
+            "color":"blue",
+            "period":"20142020",
+            "sizess":3116,
+            "posx":0.85,
+            "posy": 0.0
+        }
+        ],    "links": [                {
+                        "source":0,
+                        "target":9,
+                        "value":0.47,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":0,
+                        "target":10,
+                        "value":0.37,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":0,
+                        "target":14,
+                        "value":0.53,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":1,
+                        "target":12,
+                        "value":0.60,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":2,
+                        "target":12,
+                        "value":0.73,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":3,
+                        "target":8,
+                        "value":0.74,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":4,
+                        "target":9,
+                        "value":0.26,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":4,
+                        "target":13,
+                        "value":0.50,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":9,
+                        "value":0.28,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":10,
+                        "value":0.20,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":14,
+                        "value":0.34,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":6,
+                        "target":11,
+                        "value":0.96,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":7,
+                        "target":11,
+                        "value":0.71,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":8,
+                        "target":21,
+                        "value":0.80,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":18,
+                        "value":0.50,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":19,
+                        "value":0.67,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":22,
+                        "value":0.41,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":10,
+                        "target":18,
+                        "value":0.30,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":11,
+                        "target":16,
+                        "value":0.68,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":12,
+                        "target":15,
+                        "value":0.24,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":12,
+                        "target":16,
+                        "value":0.78,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":13,
+                        "target":15,
+                        "value":0.54,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":13,
+                        "target":17,
+                        "value":0.46,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":14,
+                        "target":18,
+                        "value":0.35,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":14,
+                        "target":22,
+                        "value":0.29,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":15,
+                        "target":26,
+                        "value":0.71,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":16,
+                        "target":25,
+                        "value":0.83,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":17,
+                        "target":23,
+                        "value":0.52,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":18,
+                        "target":24,
+                        "value":0.52,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":19,
+                        "target":24,
+                        "value":0.76,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":23,
+                        "target":28,
+                        "value":0.45,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":25,
+                        "target":27,
+                        "value":0.76,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":26,
+                        "target":27,
+                        "value":0.23,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":26,
+                        "target":29,
+                        "value":0.41,
+                        "shared": "a completer"
+                                }
+                            ]
+                        }
