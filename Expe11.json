@@ -1,0 +1,555 @@
+{"metas": {
+                "min_year":1972,
+                "minstre":0.35,
+                "max_year":2020,
+                "maxstre":0.85,
+                "nb_ticks":5
+            },
+    "nodes": [
+                {
+            "terms": "donnée,permettre,utiliser,information,méthode,analyse,résultat,modèle,partir,type",
+            "name":"donnée",
+            "color":"blue",
+            "auteurs":"BMarchand, VBerdoulay, YGuermond, SBonin, YChauviré, ADauphiné, YGuermond_ALeduc, JRacine, DMathieu, DMathieu_JWieber",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_2_1315' target='_blank'>2497_1972_num_1_2_1315</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_4_1425' target='_blank'>2497_1973_num_2_4_1425</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_1_1528' target='_blank'>2497_1975_num_4_1_1528</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_3_1398' target='_blank'>2497_1973_num_2_3_1398</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_3_1333' target='_blank'>2497_1972_num_1_3_1333</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_3_1557' target='_blank'>2497_1975_num_4_3_1557</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_3_1400' target='_blank'>2497_1973_num_2_3_1400</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_4_1737' target='_blank'>2497_1977_num_6_4_1737</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_4_1743' target='_blank'>2497_1977_num_6_4_1743</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_4_1746' target='_blank'>2497_1977_num_6_4_1746</a>",
+            "period":"19721978",
+            "sizess":3201,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "commun,rural,population,urbain,évolution,rapport,ensemble,milieu,société,trouver",
+            "name":"commun",
+            "color":"blue",
+            "auteurs":"PDuboscq, PLimouzin, CCrétin, JBlery, FAuriac, FAuriac_MBernard, FAuriac_MBernard_ELochard, PGentelle, CRiou-Barthe, JBouinot",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_1_1296' target='_blank'>2497_1972_num_1_1_1296</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_4_1572' target='_blank'>2497_1975_num_4_4_1572</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_4_1573' target='_blank'>2497_1975_num_4_4_1573</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_2_1714' target='_blank'>2497_1977_num_6_2_1714</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_2_1610' target='_blank'>2497_1976_num_5_2_1610</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1667' target='_blank'>2497_1976_num_5_4_1667</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_2_1608' target='_blank'>2497_1976_num_5_2_1608</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_4_1496' target='_blank'>2497_1974_num_3_4_1496</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_2_1385' target='_blank'>2497_1973_num_2_2_1385</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_4_1420' target='_blank'>2497_1973_num_2_4_1420</a>",
+            "period":"19721978",
+            "sizess":2164,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "industriel,région,activité,zone,développement,nouveau,apparaître,centre,agricole,limite",
+            "name":"industriel",
+            "color":"blue",
+            "auteurs":"MNoël, CRiou-Barthe, ATauveron, CCabanne, JVerrière, JDinić, PBachelard, JPoncet, PAydalot, MGrésillon",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_1_1441' target='_blank'>2497_1974_num_3_1_1441</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_2_1385' target='_blank'>2497_1973_num_2_2_1385</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1476' target='_blank'>2497_1974_num_3_3_1476</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_4_1355' target='_blank'>2497_1972_num_1_4_1355</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_4_1354' target='_blank'>2497_1972_num_1_4_1354</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1660' target='_blank'>2497_1976_num_5_4_1660</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_1_1600' target='_blank'>2497_1976_num_5_1_1600</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_2_1321' target='_blank'>2497_1972_num_1_2_1321</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1667' target='_blank'>2497_1976_num_5_4_1667</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1669' target='_blank'>2497_1976_num_5_4_1669</a>",
+            "period":"19721978",
+            "sizess":2018,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,géographe,recherche,problème,travail,étude,voir,technique,géographique,méthode",
+            "name":"géographie",
+            "color":"blue",
+            "auteurs":"AKilchenmann, PClaval, DBartels, HClout, HClout_VDomingo-Tyler, GNicolas-Obadia, JPailhé, ABailly_JRacine, JFerrier, JHenriet",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_1_1300' target='_blank'>2497_1972_num_1_1_1300</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_1812' target='_blank'>2497_1978_num_7_3_1812</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_1_1302' target='_blank'>2497_1972_num_1_1_1302</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_1_1758' target='_blank'>2497_1978_num_7_1_1758</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_1811' target='_blank'>2497_1978_num_7_3_1811</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_4_1836' target='_blank'>2497_1978_num_7_4_1836</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_1_1295' target='_blank'>2497_1972_num_1_1_1295</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_1_1689' target='_blank'>2497_1977_num_6_1_1689</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_3_1551' target='_blank'>2497_1975_num_4_3_1551</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_2_1797' target='_blank'>2497_1978_num_7_2_1797</a>",
+            "period":"19721978",
+            "sizess":2303,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "espace,géographique,social,organisation,spatial,paysage,naturel,temps,structure,régional",
+            "name":"espace",
+            "color":"blue",
+            "auteurs":"EThomale, JGallais, GSautter, DBartels, AMetton, AMetton_MBertrand, JFerrier, JRichard, JDinić, RRochefort",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_1813' target='_blank'>2497_1978_num_7_3_1813</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_2_1462' target='_blank'>2497_1974_num_3_2_1462</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_1_1590' target='_blank'>2497_1976_num_5_1_1590</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_3_1397' target='_blank'>2497_1973_num_2_3_1397</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_3_1400' target='_blank'>2497_1973_num_2_3_1400</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_2_1461' target='_blank'>2497_1974_num_3_2_1461</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_2_1390' target='_blank'>2497_1973_num_2_2_1390</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_3_1811' target='_blank'>2497_1978_num_7_3_1811</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_2_1542' target='_blank'>2497_1975_num_4_2_1542</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_1_1600' target='_blank'>2497_1976_num_5_1_1600</a>",
+            "period":"19721978",
+            "sizess":3266,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "valeur,variable,facteur,groupe,prendre,effet,compte,mettre,élément,forme",
+            "name":"valeur",
+            "color":"blue",
+            "auteurs":"MBrocard, MBrocard_DPumain, MBrocard_DPumain_VRey, HBéguin, JDeffontaines_JDenis, DCharlier-Vanderschraege, JDeffontaines, JBouinot_GMaarek, JBouinot_GMaarek_JGirard, JRacine_GLemay",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_4_1743' target='_blank'>2497_1977_num_6_4_1743</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_2_1609' target='_blank'>2497_1976_num_5_2_1609</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_4_1574' target='_blank'>2497_1975_num_4_4_1574</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_3_1333' target='_blank'>2497_1972_num_1_3_1333</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_1_1766' target='_blank'>2497_1978_num_7_1_1766</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_2_1712' target='_blank'>2497_1977_num_6_2_1712</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_3_1481' target='_blank'>2497_1974_num_3_3_1481</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_1_1694' target='_blank'>2497_1977_num_6_1_1694</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1663' target='_blank'>2497_1976_num_5_4_1663</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_1_1693' target='_blank'>2497_1977_num_6_1_1693</a>",
+            "period":"19721978",
+            "sizess":3560,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "grand,petit,partie,moyen,important,nombre,rester,place,ville,seul",
+            "name":"grand",
+            "color":"blue",
+            "auteurs":"RBonnain-Moerdyk, JDubois, MDerruau, GLazarev, CMignon, YGervaise, BGuillot, GBertrand, MBruneau_ADurand-Lasserve, MBruneau_ADurand-Lasserve_MMolinie",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_3_1404' target='_blank'>2497_1973_num_2_3_1404</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_3_1721' target='_blank'>2497_1977_num_6_3_1721</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_2_1545' target='_blank'>2497_1975_num_4_2_1545</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_3_1653' target='_blank'>2497_1976_num_5_3_1653</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_1_1438' target='_blank'>2497_1974_num_3_1_1438</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_1_1440' target='_blank'>2497_1974_num_3_1_1440</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_2_1709' target='_blank'>2497_1977_num_6_2_1709</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1974_num_3_4_1499' target='_blank'>2497_1974_num_3_4_1499</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_1_1595' target='_blank'>2497_1976_num_5_1_1595</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_2_1699' target='_blank'>2497_1977_num_6_2_1699</a>",
+            "period":"19721978",
+            "sizess":3018,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "aménagement,année,exploitation,politique,dernier,domaine,agricole,pays,économique,secteur",
+            "name":"aménagement",
+            "color":"blue",
+            "auteurs":"JCharvet, RCouderc, RCouderc_GDésiré, AFrémont, MCassou-Mounat, GCazes, CTaillard, ASanguin, JDiry, MHérin",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_1_1524' target='_blank'>2497_1975_num_4_1_1524</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_2_1781' target='_blank'>2497_1978_num_7_2_1781</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1977_num_6_4_1738' target='_blank'>2497_1977_num_6_4_1738</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_2_1619' target='_blank'>2497_1976_num_5_2_1619</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1972_num_1_3_1341' target='_blank'>2497_1972_num_1_3_1341</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_4_1831' target='_blank'>2497_1978_num_7_4_1831</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1975_num_4_4_1582' target='_blank'>2497_1975_num_4_4_1582</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1978_num_7_4_1833' target='_blank'>2497_1978_num_7_4_1833</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1973_num_2_2_1387' target='_blank'>2497_1973_num_2_2_1387</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1976_num_5_4_1660' target='_blank'>2497_1976_num_5_4_1660</a>",
+            "period":"19721978",
+            "sizess":2129,
+            "posx":0.06,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,géographe,recherche,monde,science,géographique,étude,travail,problème,objet",
+            "name":"géographie",
+            "color":"blue",
+            "auteurs":"ADurand-Lasserve_JDoumenge_GSautter_ODollfus_al, ABidaud_BElissalde_CGrataloup_JLevy_al, HTanabe, RBrunet, RRegrain, HBrookfield, ADurand-Lasserve, ADurand-Lasserve_JDoumenge, ADurand-Lasserve_JDoumenge_GSautter, ADurand-Lasserve_JDoumenge_GSautter_ODollfus",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_4_3947' target='_blank'>2497_1984_num_13_4_3947</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_2_2882' target='_blank'>2497_1989_num_18_2_2882</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_4_3948' target='_blank'>2497_1984_num_13_4_3948</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3535' target='_blank'>2497_1980_num_9_2_3535</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_3_3759' target='_blank'>2497_1982_num_11_3_3759</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_3_2896' target='_blank'>2497_1989_num_18_3_2896</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_1_3896' target='_blank'>2497_1984_num_13_1_3896</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3549' target='_blank'>2497_1980_num_9_2_3549</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_1_2818' target='_blank'>2497_1989_num_18_1_2818</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_2_2851' target='_blank'>2497_1989_num_18_2_2851</a>",
+            "period":"19791989",
+            "sizess":3740,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "modèle,exemple,forme,ensemble,fonction,élément,différent,système,permettre,donner",
+            "name":"modèle",
+            "color":"blue",
+            "auteurs":"HChamussy, HChamussy_JGuérin, HChamussy_JGuérin_MLeBerre, HChamussy_JGuérin_MLeBerre_PUvietta, BFustier, TBrossard, TBrossard_JWieber, MLeBerre_PUvietta, MLeBerre, DBlamont",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_2_3908' target='_blank'>2497_1984_num_13_2_3908</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3930' target='_blank'>2497_1984_num_13_3_3930</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_1_3887' target='_blank'>2497_1984_num_13_1_3887</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3932' target='_blank'>2497_1984_num_13_3_3932</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1987_num_16_3_4240' target='_blank'>2497_1987_num_16_3_4240</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_1_2828' target='_blank'>2497_1989_num_18_1_2828</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1987_num_16_1_4185' target='_blank'>2497_1987_num_16_1_4185</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_4_3572' target='_blank'>2497_1980_num_9_4_3572</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_1_3526' target='_blank'>2497_1980_num_9_1_3526</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1981_num_10_2_3622' target='_blank'>2497_1981_num_10_2_3622</a>",
+            "period":"19791989",
+            "sizess":2720,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "carte,variable,type,utiliser,présenter,niveau,partir,échelle,territoire,analyse",
+            "name":"carte",
+            "color":"blue",
+            "auteurs":"FPineda, FPineda_CDePablo, FPineda_CDePablo_AGomezSal, HVogt, SRimbert, KYamori, KYamori_TTakahashi, CBlanc-Pamard, MPruvot, MPruvot_CWeber-Klein",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1987_num_16_2_4205' target='_blank'>2497_1987_num_16_2_4205</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3538' target='_blank'>2497_1980_num_9_2_3538</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_2_3913' target='_blank'>2497_1984_num_13_2_3913</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1981_num_10_1_3598' target='_blank'>2497_1981_num_10_1_3598</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1986_num_15_3_4142' target='_blank'>2497_1986_num_15_3_4142</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_3_3562' target='_blank'>2497_1980_num_9_3_3562</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1979_num_8_1_1859' target='_blank'>2497_1979_num_8_1_1859</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1979_num_8_1_1858' target='_blank'>2497_1979_num_8_1_1858</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3926' target='_blank'>2497_1984_num_13_3_3926</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3925' target='_blank'>2497_1984_num_13_3_3925</a>",
+            "period":"19791989",
+            "sizess":1987,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "grand,petit,ville,partie,moyen,nombre,groupe,terre,industriel,cas",
+            "name":"grand",
+            "color":"blue",
+            "auteurs":"BCori_GCortesi_MCosta_GMasi_al, DPearce, BCori, BCori_GCortesi, BCori_GCortesi_MCosta, BCori_GCortesi_MCosta_GMasi, MBruneau_JImbernon, PLowy, RFagan, RFagan_LRognant",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1988_num_17_3_2778' target='_blank'>2497_1988_num_17_3_2778</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_3_3556' target='_blank'>2497_1980_num_9_3_3556</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1983_num_12_4_3854' target='_blank'>2497_1983_num_12_4_3854</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1983_num_12_1_3794' target='_blank'>2497_1983_num_12_1_3794</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1981_num_10_3_3655' target='_blank'>2497_1981_num_10_3_3655</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_1_3895' target='_blank'>2497_1984_num_13_1_3895</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_4_3586' target='_blank'>2497_1980_num_9_4_3586</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1985_num_14_4_4058' target='_blank'>2497_1985_num_14_4_4058</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_2_3543' target='_blank'>2497_1980_num_9_2_3543</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_1_3696' target='_blank'>2497_1982_num_11_1_3696</a>",
+            "period":"19791989",
+            "sizess":2528,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "zone,population,centre,région,urbain,rural,important,activité,ville,part",
+            "name":"zone",
+            "color":"blue",
+            "auteurs":"MBerger, MBerger_JFrust, MBerger_JFrust_FPlet, MBerger_JFrust_FPlet_MRobic, JFontaine, DPumain, DPumain_TSaint-Julien, DCourgeau_RVanDerErf, DCourgeau_RVanDerErf_MPoulain, DRivière",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_4_3582' target='_blank'>2497_1980_num_9_4_3582</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_1_2827' target='_blank'>2497_1989_num_18_1_2827</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_2_3912' target='_blank'>2497_1984_num_13_2_3912</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_3_3562' target='_blank'>2497_1980_num_9_3_3562</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1985_num_14_4_4057' target='_blank'>2497_1985_num_14_4_4057</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_2_3728' target='_blank'>2497_1982_num_11_2_3728</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1983_num_12_1_3795' target='_blank'>2497_1983_num_12_1_3795</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1979_num_8_3_1911' target='_blank'>2497_1979_num_8_3_1911</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3933' target='_blank'>2497_1984_num_13_3_3933</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_3_2897' target='_blank'>2497_1989_num_18_3_2897</a>",
+            "period":"19791989",
+            "sizess":3181,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "économique,politique,société,espace,social,production,national,local,mettre,rapport",
+            "name":"économique",
+            "color":"blue",
+            "auteurs":"JGuigou, RPourtier, MJaillet, MJaillet_GJalabert, GDupuy, BBret, ELeynaud, JBonnemaison, MBresso, AGarcia",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_4_3784' target='_blank'>2497_1982_num_11_4_3784</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_1_3520' target='_blank'>2497_1980_num_9_1_3520</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_4_3946' target='_blank'>2497_1984_num_13_4_3946</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1989_num_18_3_2892' target='_blank'>2497_1989_num_18_3_2892</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1983_num_12_4_3858' target='_blank'>2497_1983_num_12_4_3858</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_4_3779' target='_blank'>2497_1982_num_11_4_3779</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1987_num_16_3_4241' target='_blank'>2497_1987_num_16_3_4241</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1980_num_9_4_3578' target='_blank'>2497_1980_num_9_4_3578</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1979_num_8_3_1908' target='_blank'>2497_1979_num_8_3_1908</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1985_num_14_2_4016' target='_blank'>2497_1985_num_14_2_4016</a>",
+            "period":"19791989",
+            "sizess":4131,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "mesure,donnée,premier,temps,résultat,image,valeur,apparaître,considérer,année",
+            "name":"mesure",
+            "color":"blue",
+            "auteurs":"GJoly, GJoly_FVerger, GJoly_FVerger_JCrettez, GGuyot, GGuyot_JHanocq, GGuyot_JHanocq_TLépine, GGuyot_JHanocq_TLépine_PMalet, GGuyot_JHanocq_TLépine_PMalet_al, JChancerel, HBéguin",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1983_num_12_2_3818' target='_blank'>2497_1983_num_12_2_3818</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3934' target='_blank'>2497_1984_num_13_3_3934</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1988_num_17_3_2780' target='_blank'>2497_1988_num_17_3_2780</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3932' target='_blank'>2497_1984_num_13_3_3932</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1981_num_10_2_3621' target='_blank'>2497_1981_num_10_2_3621</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_2_3911' target='_blank'>2497_1984_num_13_2_3911</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1987_num_16_4_4268' target='_blank'>2497_1987_num_16_4_4268</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1982_num_11_3_3753' target='_blank'>2497_1982_num_11_3_3753</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_3_3933' target='_blank'>2497_1984_num_13_3_3933</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1984_num_13_2_3909' target='_blank'>2497_1984_num_13_2_3909</a>",
+            "period":"19791989",
+            "sizess":1796,
+            "posx":0.22,
+            "posy": 0.0
+        },
+                {
+            "terms": "état,politique,pays,national,région,économique,local,développement,régional,devenir",
+            "name":"état",
+            "color":"blue",
+            "auteurs":"MBruneau, GPrevelakis, ABouillon, ATer-Minassian, BLootvoet_SGuyot, NFau, PEidelberg, PGervais-Lambony, JYacoub, VKolossov_TGalkina",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_2_3285' target='_blank'>2497_1994_num_23_2_3285</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_4_1006' target='_blank'>2497_1996_num_25_4_1006</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_2_1237' target='_blank'>2497_1999_num_28_2_1237</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_3_3305' target='_blank'>2497_1994_num_23_3_3305</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_2_3282' target='_blank'>2497_1994_num_23_2_3282</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2002-1-page-49.html' target='_blank'>2002-1-page-49</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_3_1258' target='_blank'>2497_1999_num_28_3_1258</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_3_984' target='_blank'>2497_1996_num_25_3_984</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_1_3252' target='_blank'>2497_1994_num_23_1_3252</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_3_3312' target='_blank'>2497_1994_num_23_3_3312</a>",
+            "period":"19902002",
+            "sizess":3343,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,centre,quartier,urbain,moyen,réseau,grand,apparaître,commun,rester",
+            "name":"ville",
+            "color":"blue",
+            "auteurs":"IIanos, LDiazOlvera_DPlat, LDiazOlvera_DPlat_PPochet, NCattan, VBaby, ADelissen, ELeBris, ELeBris_CTaillard, SBerroir, JMonnet",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_4_2037' target='_blank'>2497_2000_num_29_4_2037</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_2_1137' target='_blank'>2497_1998_num_27_2_1137</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_4_3336' target='_blank'>2497_1994_num_23_4_3336</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_2_1062' target='_blank'>2497_1997_num_26_2_1062</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_2_1144' target='_blank'>2497_1998_num_27_2_1144</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_1_1117' target='_blank'>2497_1998_num_27_1_1117</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1992_num_21_1_3041' target='_blank'>2497_1992_num_21_1_3041</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_4_1012' target='_blank'>2497_1996_num_25_4_1012</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1992_num_21_3_3087' target='_blank'>2497_1992_num_21_3_3087</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_4_1278' target='_blank'>2497_1999_num_28_4_1278</a>",
+            "period":"19902002",
+            "sizess":2079,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "lieu,question,espace,sembler,géographique,société,rapport,territoire,terme,place",
+            "name":"lieu",
+            "color":"blue",
+            "auteurs":"BDebarbieux, BAntheaume_ODollfus_FDurand-Dastès._RBrunet_al, GDiMéo, LGrison, VBerdoulay, VBerdoulay_JEntrikin, JBesse, JPiveteau, RKnafou_MBruston_FDeprest_PDuhamel_al, HBlais",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_1_1218' target='_blank'>2497_1999_num_28_1_1218</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_2_3363' target='_blank'>2497_1995_num_24_2_3363</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_3_1071' target='_blank'>2497_1997_num_26_3_1071</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_2_1139' target='_blank'>2497_1998_num_27_2_1139</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_4_3020' target='_blank'>2497_1990_num_19_4_3020</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3123' target='_blank'>2497_1993_num_22_1_3123</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_2_3364' target='_blank'>2497_1995_num_24_2_3364</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_3_1168' target='_blank'>2497_1998_num_27_3_1168</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-4-page-348.html' target='_blank'>2001-4-page-348</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_1_3350' target='_blank'>2497_1995_num_24_1_3350</a>",
+            "period":"19902002",
+            "sizess":3015,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "donnée,permettre,type,modèle,montrer,utiliser,analyse,exemple,information,étude",
+            "name":"donnée",
+            "color":"blue",
+            "auteurs":"YVandeVyvere, FSalgé, SCurtis, SCurtis_RVanduick, MLaurent, MLaurent_IThomas, SSandraps, NGreen, NGreen_JShepherd, NGreen_JShepherd_MHubert",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_1_1959' target='_blank'>2497_2000_num_29_1_1959</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_1_2939' target='_blank'>2497_1990_num_19_1_2939</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_1_1119' target='_blank'>2497_1998_num_27_1_1119</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_3_1081' target='_blank'>2497_1997_num_26_3_1081</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_3_1082' target='_blank'>2497_1997_num_26_3_1082</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_1_3341' target='_blank'>2497_1995_num_24_1_3341</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_1_2940' target='_blank'>2497_1990_num_19_1_2940</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1992_num_21_2_3063' target='_blank'>2497_1992_num_21_2_3063</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_2_2968' target='_blank'>2497_1990_num_19_2_2968</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_1_3342' target='_blank'>2497_1995_num_24_1_3342</a>",
+            "period":"19902002",
+            "sizess":2620,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,système,structure,forme,organisation,ensemble,processus,constituer,mettre,relation",
+            "name":"spatial",
+            "color":"blue",
+            "auteurs":"CAschan-Leygonie, EPEES, MPiron, DGautier, DPumain, YPoinsot, BElissalde, RMayer, ADauphiné, YRichard",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_1_1968' target='_blank'>2497_2000_num_29_1_1968</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_3_2004' target='_blank'>2497_2000_num_29_3_2004</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_1_1120' target='_blank'>2497_1998_num_27_1_1120</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_2_3160' target='_blank'>2497_1993_num_22_2_3160</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_2_975' target='_blank'>2497_1996_num_25_2_975</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_2_1063' target='_blank'>2497_1997_num_26_2_1063</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_3_1163' target='_blank'>2497_1998_num_27_3_1163</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_3_2008' target='_blank'>2497_2000_num_29_3_2008</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_2000_num_29_3_2006' target='_blank'>2497_2000_num_29_3_2006</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_1_3138' target='_blank'>2497_1993_num_22_1_3138</a>",
+            "period":"19902002",
+            "sizess":2686,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "entreprise,service,emploi,production,activité,marché,industriel,trouver,lier,part",
+            "name":"entreprise",
+            "color":"blue",
+            "auteurs":"FMoatty, FMoatty_AValeyre, WBeyers, WBeyers_DLindahl, WBeyers_DLindahl_MThery, ABailly_WCoffey, RJorda-Borrell, ABailly, TRegazzola, ÉCrouzet",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_4_1005' target='_blank'>2497_1996_num_25_4_1005</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1997_num_26_3_1078' target='_blank'>2497_1997_num_26_3_1078</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_4_3015' target='_blank'>2497_1990_num_19_4_3015</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_4_1003' target='_blank'>2497_1996_num_25_4_1003</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_3_3309' target='_blank'>2497_1994_num_23_3_3309</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_4_1006' target='_blank'>2497_1996_num_25_4_1006</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_1_3352' target='_blank'>2497_1995_num_24_1_3352</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_1_1220' target='_blank'>2497_1999_num_28_1_1220</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-3-page-256.html' target='_blank'>2001-3-page-256</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-1-page-53.html' target='_blank'>2001-1-page-53</a>",
+            "period":"19902002",
+            "sizess":2388,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "géographie,monde,voir,sentir,général,particulier,problème,aller,premier,partie",
+            "name":"géographie",
+            "color":"blue",
+            "auteurs":"BAntheaume_ODollfus_FDurand-Dastès._RBrunet_al, SAlavoine, ABerque, OOrain, BAntheaume_ODollfus, BAntheaume_ODollfus_FDurand-Dastès., BAntheaume_ODollfus_FDurand-Dastès._RBrunet, ComitéEspaceGeo, AReynaud, ILaboulais-Lesage",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_1_1218' target='_blank'>2497_1999_num_28_1_1218</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_3_990' target='_blank'>2497_1996_num_25_3_990</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_3_3213' target='_blank'>2497_1993_num_22_3_3213</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_2_2966' target='_blank'>2497_1990_num_19_2_2966</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_3_989' target='_blank'>2497_1996_num_25_3_989</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_4_3225' target='_blank'>2497_1993_num_22_4_3225</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-2-page-97.html' target='_blank'>2001-2-page-97</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_1_1213' target='_blank'>2497_1999_num_28_1_1213</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-2-page-180.html' target='_blank'>2001-2-page-180</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1999_num_28_4_1276' target='_blank'>2497_1999_num_28_4_1276</a>",
+            "period":"19902002",
+            "sizess":1802,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "compte,prendre,distance,effet,cas,mesure,fonction,valeur,seul,considérer",
+            "name":"compte",
+            "color":"blue",
+            "auteurs":"PArnold, PArnold_DPeeters, IThomas, CThomas, CThomas_PVilleneuve, SMartin, SMartin_JMainguy, SMartin_JMainguy_MDeSaintignon, CGrasland_APotrykowska, CDujardin",
+            "docs":"<a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_3_2993' target='_blank'>2497_1990_num_19_3_2993</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1995_num_24_1_3343' target='_blank'>2497_1995_num_24_1_3343</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1998_num_27_3_1165' target='_blank'>2497_1998_num_27_3_1165</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_4_3229' target='_blank'>2497_1993_num_22_4_3229</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1993_num_22_4_3228' target='_blank'>2497_1993_num_22_4_3228</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_3_996' target='_blank'>2497_1996_num_25_3_996</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2002-3-page-208.html' target='_blank'>2002-3-page-208</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2001-4-page-307.html' target='_blank'>2001-4-page-307</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_3_2992' target='_blank'>2497_1990_num_19_3_2992</a> </br> <a href='https://www.persee.fr/doc/spgeo_0046-2497_1996_num_25_1_953' target='_blank'>2497_1996_num_25_1_953</a>",
+            "period":"19902002",
+            "sizess":2832,
+            "posx":0.45,
+            "posy": 0.0
+        },
+                {
+            "terms": "espace,social,nature,territoire,pratique,objet,société,rapport,question,terme",
+            "name":"espace",
+            "color":"blue",
+            "auteurs":"BAntheaume_CBataillon_ABerque_JBesse_al, HTerMinassian_SRufat_SCoavoux_VBerry, AMoine, VBerdoulay_OSoubeyran, NBlanc_SGlatron, OMusard_JFournier_JMarchand, CBouisset_IDegrémont, DLabat_PDonadieu, SLeFloch_ADevanne_JDeffontaines, LLaslaz",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2004-1-page-6.html' target='_blank'>2004-1-page-6</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2011-3-page-245.html' target='_blank'>2011-3-page-245</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2006-2-page-115.html' target='_blank'>2006-2-page-115</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2005-1-page-65.html' target='_blank'>2005-1-page-65</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2007-2-page-168.html' target='_blank'>2007-2-page-168</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-3-page-193.html' target='_blank'>2013-3-page-193</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-1-page-44.html' target='_blank'>2013-1-page-44</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2005-1-page-49.html' target='_blank'>2005-1-page-49</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-4-page-370.html' target='_blank'>2013-4-page-370</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-4-page-354.html' target='_blank'>2013-4-page-354</a>",
+            "period":"20032013",
+            "sizess":3660,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,permettre,analyse,donnée,modèle,système,échelle,différent,dynamique,évolution",
+            "name":"spatial",
+            "color":"blue",
+            "auteurs":"KEmsellem_SLiziard_FScarella, CVoiron-Canicio, FFavory_LNuninger_LSanders, AMangiavillano_ADauphiné, VLaperrière, MForriez_PMartin_LNottale, LCosta, MÉtienne, TJoliveau, ABousquet_LCouderchet_AGassiat_BHautdidier",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2012-2-page-154.html' target='_blank'>2012-2-page-154</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-2-page-99.html' target='_blank'>2012-2-page-99</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-4-page-295.html' target='_blank'>2012-4-page-295</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2011-3-page-263.html' target='_blank'>2011-3-page-263</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2010-4-page-345.html' target='_blank'>2010-4-page-345</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2010-2-page-97.html' target='_blank'>2010-2-page-97</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-4-page-340.html' target='_blank'>2012-4-page-340</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-2-page-128.html' target='_blank'>2012-2-page-128</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2011-2-page-154.html' target='_blank'>2011-2-page-154</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-1-page-61.html' target='_blank'>2013-1-page-61</a>",
+            "period":"20032013",
+            "sizess":3319,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,urbain,centre,quartier,population,habitant,service,grand,rester,réseau",
+            "name":"ville",
+            "color":"blue",
+            "auteurs":"KKateb, TPfirsch, ESwerts_DPumain, JHernandez, SJaglin, FDecoupigny_GFusco, AMboumba, CCottineau, FFolio_SGuyot, PApparicio_ASéguin",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2003-4-page-311.html' target='_blank'>2003-4-page-311</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2011-4-page-305.html' target='_blank'>2011-4-page-305</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-1-page-77.html' target='_blank'>2013-1-page-77</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2009-2-page-124.html' target='_blank'>2009-2-page-124</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-1-page-51.html' target='_blank'>2012-1-page-51</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2009-3-page-267.html' target='_blank'>2009-3-page-267</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2007-2-page-131.html' target='_blank'>2007-2-page-131</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2012-3-page-266.html' target='_blank'>2012-3-page-266</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2004-4-page-307.html' target='_blank'>2004-4-page-307</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2006-1-page-63.html' target='_blank'>2006-1-page-63</a>",
+            "period":"20032013",
+            "sizess":3627,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "pays,région,national,développement,état,européen,régional,agricole,économique,activité",
+            "name":"pays",
+            "color":"blue",
+            "auteurs":"MDemaze, EGrégoire_HThéry, RDeKoninck_JRousseau, EBoulineau_MSuciu, YRichard_GHamme, FFortunel, SBourdin, RDeKoninck, CTaillard, MBaron_CPerret",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2009-2-page-139.html' target='_blank'>2009-2-page-139</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2007-3-page-267.html' target='_blank'>2007-3-page-267</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2008-4-page-297.html' target='_blank'>2008-4-page-297</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-2-page-143.html' target='_blank'>2013-2-page-143</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2008-4-page-349.html' target='_blank'>2008-4-page-349</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-1-page-15.html' target='_blank'>2013-1-page-15</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2013-3-page-270.html' target='_blank'>2013-3-page-270</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2003-4-page-301.html' target='_blank'>2003-4-page-301</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2009-1-page-1.html' target='_blank'>2009-1-page-1</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2006-1-page-44.html' target='_blank'>2006-1-page-44</a>",
+            "period":"20032013",
+            "sizess":4568,
+            "posx":0.68,
+            "posy": 0.0
+        },
+                {
+            "terms": "ville,grand,urbain,petit,habitant,population,région,centre,quartier,partie",
+            "name":"ville",
+            "color":"blue",
+            "auteurs":"CHenriot, SMilhaud, TSanjuan_BFayolleLussac, DLeducq_HScarwell, GLeRoux, QBiville, KTran, RMakamtéKakeu-Tardy, JLombard_PSakho_CValton, MBellocq",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2017-4-page-329.html' target='_blank'>2017-4-page-329</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2017-4-page-311.html' target='_blank'>2017-4-page-311</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2017-4-page-292.html' target='_blank'>2017-4-page-292</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2018-4-page-305.html' target='_blank'>2018-4-page-305</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-3-page-241.html' target='_blank'>2019-3-page-241</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2017-4-page-364.html' target='_blank'>2017-4-page-364</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-3-page-219.html' target='_blank'>2019-3-page-219</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2018-3-page-261.html' target='_blank'>2018-3-page-261</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-4-page-306.html' target='_blank'>2019-4-page-306</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2017-4-page-346.html' target='_blank'>2017-4-page-346</a>",
+            "period":"20142020",
+            "sizess":4010,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms": "spatial,pratique,analyse,donner,question,géographique,culturel,forme,espace,prendre",
+            "name":"spatial",
+            "color":"blue",
+            "auteurs":"SRufat_HTer, VGuyonnard_LVacher, BDebarbieux, MChabrol_LGrasland, ABerque, MRosemberg, FRipoll, BDebarbieux_EHertz, CGrasland_RLamarche-Perrin_BLoveluck_HPecout, PClerc",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2014-4-page-308.html' target='_blank'>2014-4-page-308</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2018-2-page-159.html' target='_blank'>2018-2-page-159</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-4-page-354.html' target='_blank'>2020-4-page-354</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2016-1-page-79.html' target='_blank'>2016-1-page-79</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2016-2-page-168.html' target='_blank'>2016-2-page-168</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-4-page-289.html' target='_blank'>2019-4-page-289</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-1-page-68.html' target='_blank'>2014-1-page-68</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2016-4-page-321.html' target='_blank'>2016-4-page-321</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-4-page-289.html' target='_blank'>2020-4-page-289</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2016-1-page-25.html' target='_blank'>2016-1-page-25</a>",
+            "period":"20142020",
+            "sizess":3616,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms": "local,politique,acteur,national,territoire,projet,réseau,public,économique,développement",
+            "name":"local",
+            "color":"blue",
+            "auteurs":"ÉLéonard_JFoyer, JVenot_BTorou_WDaré, SKahn, PJutteau_GLacquement, GRouillé_DBlanchon_BCalas_ÉTemple-Boyer, NGuiraud_VLaperrière_JRouchier, IGeorgikopoulos, MGisclard_BLysaniuk_ÉMesclier, LGay_CTorretti, ACariou",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2015-3-page-198.html' target='_blank'>2015-3-page-198</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-2-page-148.html' target='_blank'>2014-2-page-148</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-3-page-240.html' target='_blank'>2014-3-page-240</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-4-page-359.html' target='_blank'>2019-4-page-359</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-1-page-51.html' target='_blank'>2014-1-page-51</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-2-page-131.html' target='_blank'>2015-2-page-131</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-4-page-356.html' target='_blank'>2014-4-page-356</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-2-page-150.html' target='_blank'>2020-2-page-150</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-3-page-193.html' target='_blank'>2015-3-page-193</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-2-page-147.html' target='_blank'>2015-2-page-147</a>",
+            "period":"20142020",
+            "sizess":3862,
+            "posx":0.85,
+            "posy": 0.0
+        },
+                {
+            "terms":"géographie,français,recherche,travail,partir,année,france,article,étude,premier",
+            "name":"géographie",
+            "color":"blue",
+            "auteurs":"NGinsburger, , NVerdier, JBesse, SCuyala_HCommenges, Lecollectifdesrevuesenlutte, JThémines, LAlvesdeLira, CBataillon, HMunz",
+            "docs":"<a href='https://www.cairn.info/revue-espace-geographique-2017-3-page-236.html' target='_blank'>2017-3-page-236</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-1-page-60.html' target='_blank'>2020-1-page-60</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-1-page-5.html' target='_blank'>2020-1-page-5</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-1-page-38.html' target='_blank'>2015-1-page-38</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2016-3-page-195.html' target='_blank'>2016-3-page-195</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-4-page-349.html' target='_blank'>2015-4-page-349</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2020-1-page-46.html' target='_blank'>2020-1-page-46</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2014-4-page-289.html' target='_blank'>2014-4-page-289</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2019-3-page-195.html' target='_blank'>2019-3-page-195</a> </br> <a href='https://www.cairn.info/revue-espace-geographique-2015-4-page-361.html' target='_blank'>2015-4-page-361</a>",
+            "period":"20142020",
+            "sizess":3116,
+            "posx":0.85,
+            "posy": 0.0
+        }
+        ],    "links": [                {
+                        "source":0,
+                        "target":9,
+                        "value":0.47,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":0,
+                        "target":10,
+                        "value":0.37,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":0,
+                        "target":14,
+                        "value":0.53,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":1,
+                        "target":12,
+                        "value":0.60,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":2,
+                        "target":12,
+                        "value":0.73,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":3,
+                        "target":8,
+                        "value":0.74,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":4,
+                        "target":9,
+                        "value":0.26,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":4,
+                        "target":13,
+                        "value":0.50,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":9,
+                        "value":0.28,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":10,
+                        "value":0.20,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":5,
+                        "target":14,
+                        "value":0.34,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":6,
+                        "target":11,
+                        "value":0.96,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":7,
+                        "target":11,
+                        "value":0.71,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":8,
+                        "target":21,
+                        "value":0.80,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":18,
+                        "value":0.50,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":19,
+                        "value":0.67,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":9,
+                        "target":22,
+                        "value":0.41,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":10,
+                        "target":18,
+                        "value":0.30,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":11,
+                        "target":16,
+                        "value":0.68,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":12,
+                        "target":15,
+                        "value":0.24,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":12,
+                        "target":16,
+                        "value":0.78,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":13,
+                        "target":15,
+                        "value":0.54,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":13,
+                        "target":17,
+                        "value":0.46,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":14,
+                        "target":18,
+                        "value":0.35,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":14,
+                        "target":22,
+                        "value":0.29,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":15,
+                        "target":26,
+                        "value":0.71,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":16,
+                        "target":25,
+                        "value":0.83,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":17,
+                        "target":23,
+                        "value":0.52,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":18,
+                        "target":24,
+                        "value":0.52,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":19,
+                        "target":24,
+                        "value":0.76,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":23,
+                        "target":28,
+                        "value":0.45,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":25,
+                        "target":27,
+                        "value":0.76,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":26,
+                        "target":27,
+                        "value":0.23,
+                        "shared": "a completer"
+                                },
+                {
+                        "source":26,
+                        "target":29,
+                        "value":0.41,
+                        "shared": "a completer"
+                                }
+                            ]
+                        }
